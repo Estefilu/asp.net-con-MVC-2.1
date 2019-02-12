@@ -1,0 +1,2 @@
+Este proyecto esta hecho en ASP.NET con MVC 2.1 con lo que se debe ejecutar descargando el programa 
+y ejecutarlo es muy sencillo de utilizar y se puede visualizar el codigo fuente.
